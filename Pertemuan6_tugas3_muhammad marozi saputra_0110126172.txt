@@ -1,0 +1,5 @@
+baris = int(input("Masukkan numlah baris:"))
+
+for i in range(1, baris + 2):
+    print('*'*i)
+    
